@@ -2,7 +2,6 @@
 
 # Arduino Sensor Control — Ultrasonic Sensor Control via Windows Forms
 
-Coursework project for the "Programming Interfaces of Computing Systems" course.
 A C# (Windows Forms) application communicates with an **Arduino UNO** board over a serial (COM) port to control a system built around an ultrasonic range finder: an RGB LED and a piezo buzzer.
 
 ## How it works
